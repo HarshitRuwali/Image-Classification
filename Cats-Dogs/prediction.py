@@ -1,0 +1,1 @@
+new_cats_dogs['predictions'] = model.predict(new_cats_dogs)
